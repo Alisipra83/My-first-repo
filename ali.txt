@@ -4,3 +4,5 @@ he is nice
 ignoring staged area
 
 adfadsfasdf
+
+lets go to staged
